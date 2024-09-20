@@ -6,7 +6,7 @@ Server side:
 1 - Open new terminal                                                           
 2 - type : 
           cd Server                                                                                   
-          node server.js                                                                 
+                                                    node server.js                                                                 
                  
 Client side:                                                                 
 1 - Open new terminal                                             
