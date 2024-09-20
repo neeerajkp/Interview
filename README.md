@@ -4,7 +4,8 @@ Then follow the below steps:
                                                              
 Server side:                                                                  
 1 - Open new terminal                                                           
-2 - type : cd Server                                                                                   
+2 - type : 
+          cd Server                                                                                   
           node server.js                                                                 
                  
 Client side:                                                                 
