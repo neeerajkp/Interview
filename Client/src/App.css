@@ -1,0 +1,38 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 30px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.pagination button {
+  margin: 5px;
+  padding: 5px;
+}
+
+button.active {
+  background-color: lightblue;
+}
+
+.search {
+  height: 30px;
+  width: 300px;
+}
+
+.top {
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
